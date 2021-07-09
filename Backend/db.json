@@ -3,27 +3,37 @@
     {
       "id": 1,
       "name": "PC",
-      "price": 5.5
+      "price": "5.5"
     },
     {
       "id": 2,
       "name": "PC2",
-      "price": 6.5
+      "price": "5.5"
     },
     {
       "id": 3,
       "name": "PC3",
-      "price": 7.5
+      "price": "5.5"
     },
     {
       "id": 4,
       "name": "PC4",
-      "price": 8.5
+      "price": "5.5"
     },
     {
       "id": 5,
       "name": "PC5",
-      "price": 9.5
+      "price": "5.5"
+    },
+    {
+      "name": "PEdro 1",
+      "price": "23.55",
+      "id": 6
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 7
     }
   ]
 }
